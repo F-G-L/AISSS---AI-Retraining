@@ -1,0 +1,8 @@
+1. Create a folder named "projects" inside of your Desktop folder.
+2. Create a folder named "Cnn_Project" inside of the folder "projects".
+3. Download all files from the Baseline folder in this repository into the "Cnn_Project" folder.
+4. Download python version 3.11.9.
+5. Open command prompt and enter "cd ", followed by the path to your "Cnn_Project" folder.
+6. Enter "python -m venv .venv".
+7. Enter ".venv\Scripts\activate".
+8. Enter "python -m pip install -r requirements.txt".
