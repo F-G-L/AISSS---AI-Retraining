@@ -1,1 +1,3 @@
-
+1. Install the file  "create_experiment_split.py" into the folder "projects".
+2. Run "python create_experiment_split.py" in your Command Prompt.
+3. Move on to controlinstructions.txt in the "Control" folder in this repository.
