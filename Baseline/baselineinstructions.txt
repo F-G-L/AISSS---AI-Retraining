@@ -9,3 +9,4 @@
 9. Download the isic2018 complete training data folder (the 2.6 GB one, from the link https://challenge.isic-archive.com/data/#2018) into the "Cnn_Project" folder.
 10. Enter "python train.py" into your command prompt.
 11. Wait.
+12. Move on to "externalinstructions.txt" in the folder "External (Do after Baseline)" in this repository.
