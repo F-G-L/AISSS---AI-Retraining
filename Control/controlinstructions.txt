@@ -9,3 +9,7 @@
 9. Open the "model_Simple.py" file inside of the folder "Cnn_Project_Simple".
 10. Replace its contents with the "model.py" file inside of the folder "Simple" in this repository.
 11. Open the "train_Control.py" file inside of the folder "Cnn_Project_Control".
+12. Replace its contents with the "train_Control.py" file inside of the folder "Control" in this repository.
+13. Go to the "Cnn_Project_Simple" folder.
+14. Open the "train_Simple.py" file inside of the folder "Cnn_Project_Simple".
+15. Replace its contents with the "train_Simple.py" file inside of the folder "Simple" in this repository.
