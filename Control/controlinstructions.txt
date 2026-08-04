@@ -1,1 +1,6 @@
-
+1. Open the "dataset.py" file inside of the folder "Cnn_Project_Control".
+2. Replace its contents with the "dataset.py" file inside of the folder "Control" in this repository.
+3. Go to the "Cnn_Project_Control" folder.
+4. Open the "dataset.py" file inside of the folder "Cnn_Project_Simple".
+5. Replace its contents with the "dataset.py" file inside of the folder "Simple in this repository.
+6. 
