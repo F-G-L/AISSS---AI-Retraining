@@ -13,3 +13,4 @@
 13. Go to the "Cnn_Project_Simple" folder.
 14. Open the "train_Simple.py" file inside of the folder "Cnn_Project_Simple".
 15. Replace its contents with the "train_Simple.py" file inside of the folder "Simple" in this repository.
+16. Go to "finalinstructions.txt" in the folder "Final" in this repository.
