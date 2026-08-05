@@ -3,3 +3,15 @@
 3. Open command prompt.
 4. Enter "cd ", followed by the path to your "Cnn_Project_Control" folder.
 5. Enter ".venv\Scripts\activate".
+6. Enter "python train_Control.py".
+7. Wait.
+8. Enter "exit".
+9. Enter "cd ", followed by the path to your "Cnn_Project_Simple" folder.
+10. Enter ".venv\Scripts\activate".
+11. Enter "python train_Simple.py".
+12. Wait.
+13. Enter "exit".
+14. Enter "cd ", followed by the path to your "projects" folder.
+15. Enter ".venv\Scripts\activate".
+16. Enter "python evaluate_all_models.py".
+17. Wait.
