@@ -1,4 +1,5 @@
 1. Create a new file, "evaluate_all_models.py", in the folder "projects".
 2. Replace its contents with the contents of the file "evaluate_all_models.py" in the folder "Final" in this repository.
 3. Open command prompt.
-4. Run "cd 
+4. Enter "cd ", followed by the path to your "Cnn_Project_Control" folder.
+5. Enter ".venv\Scripts\activate".
